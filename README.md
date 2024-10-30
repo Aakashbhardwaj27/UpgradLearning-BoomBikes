@@ -1,5 +1,5 @@
 # BoomBikes
-> Outline a brief description of your project.
+> BoomBikes, a U.S.-based bike-sharing service, has faced a significant drop in revenues due to the COVID-19 pandemic, which has led to a struggle for sustainability in the current market conditions. To counteract this, BoomBikes aims to develop a strategic plan to boost revenue as soon as lockdown restrictions are lifted and the economy stabilizes.
 
 
 ## Table of Contents
